@@ -2,7 +2,7 @@
 
 ### 1. MERN Assignments
 
-- [Assignments No. 1](https://github.com/kamleshp95/MERN-stack-Assignment/blob/main/Nodejs/01.Assignment_01.i)
+- [Assignments No. 1](https://github.com/kamleshp95/MERN-stack-Assignment/blob/main/Nodejs/01.Assignment_01.ipynb)
 
 - [Assignments No. 2](https://github.com/kamleshp95/MERN-stack-Assignment/blob/main/Database/02.Assignment_02.ipynb)
 
